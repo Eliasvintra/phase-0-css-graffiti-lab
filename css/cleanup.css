@@ -1,1 +1,16 @@
 /* write your override styles here */
+* {
+    background-image: none;
+}
+#wall .tag-1,.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    display: none; 
+    background: none;
+    background-repeat: no-repeat;
+    width: 0;
+    height: 0;
+    z-index: 0;
+}
+#wall {
+    background-image: none;
+    display: none;
+}
